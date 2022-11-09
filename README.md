@@ -32,3 +32,9 @@ some libraries.
 ## 🎁 Acknowledgment
 
 * I would like to thank my professor and friend **Leandro Cruvinel** for his help and teachings.
+
+
+
+# 🤖 Resume
+
+<img title="resume" alt="resume of this repository" src="data_readme\resume.png">
