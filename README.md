@@ -11,7 +11,9 @@ Hello, this readme will show to you step by step what there are in each folder. 
 
 These instruction will allow you get a copy of this repository on your computer for development and testing purpose. 
 
-See **git clone https://github.com/IsaacMirandaCamargos/Genetic_algorithms** to learn how implement this projectpara saber como implantar o projeto.
+```
+**git clone https://github.com/IsaacMirandaCamargos/Genetic_algorithms** 
+```
 
 ### 📋 requirements
 
